@@ -15,23 +15,23 @@ This is my very first Machine Learning project, where I built a **handwritten di
 
 ---
 
-## 📌 Highlights
+##  Highlights
 
-- 🔢 **10 Classes** (Digits 0 to 9)
-- 🖼️ **Custom Image Dataset** (50+ images per digit, extendable)
-- ✍️ **Image Preprocessing**:
+-  **10 Classes** (Digits 0 to 9)
+-  **Custom Image Dataset** (50+ images per digit, extendable)
+-  **Image Preprocessing**:
   - Grayscale conversion
   - Gaussian blur
   - Thresholding
   - Resizing to 28×28
   - Binarization
-- 📊 **Model**: Linear **Support Vector Machine (SVM)**
-- 💾 **Joblib** for model persistence
-- 🧪 **Accuracy Evaluation** using `sklearn.metrics`
+- **Model**: Linear **Support Vector Machine (SVM)**
+- **Joblib** for model persistence
+- **Accuracy Evaluation** using `sklearn.metrics`
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 Each digit (0-9) has its own folder with 50+ `.png` files. During dataset creation:
 
@@ -42,7 +42,7 @@ Each digit (0-9) has its own folder with 50+ `.png` files. During dataset creati
 
 ---
 
-## 🚀 Model Training
+## Model Training
 
 ```
 from sklearn.svm import SVC
@@ -62,17 +62,17 @@ The system captures your handwritten digit using screen grabbing, preprocesses i
 - Gained confidence in deploying a basic ML pipeline end-to-end
 
 ## Future Improvements
-- 📈 Increase dataset size for better generalization<br>
-- 🔍 Try CNNs for higher accuracy<br>
-- 🌐 Build a simple web interface using Flask/Streamlit<br>
-- 🔔 Add sound/notification-based feedback system<br>
+- Increase dataset size for better generalization<br>
+- Try CNNs for higher accuracy<br>
+- Build a simple web interface using Flask/Streamlit<br>
+- Add sound/notification-based feedback system<br>
 
 ## 📸 Demo
-<p float="Left">
+<p float="centre">
 <img src="assets/img (1).png" width="400" />
 <img src="assets/img (2).png" width="400" />
 <img src="assets/img (3).png" width="400" />
-<img src="assets/img (4).png" width="400" />
+<img src="assets/img (4).png" width="600" />
 </p>
 
 
