@@ -72,7 +72,7 @@ The system captures your handwritten digit using screen grabbing, preprocesses i
 <img src="assets/img (1).png" width="450" />
 <img src="assets/img (2).png" width="490" />
 <img src="assets/img (4).png" width="650" />
-<img src="assets/img (3).png" width="40" />
+<img src="assets/img (3).png" width="400" />
 </div>
 
 
