@@ -68,14 +68,12 @@ The system captures your handwritten digit using screen grabbing, preprocesses i
 - Add sound/notification-based feedback system<br>
 
 ## 📸 Demo
-<p float="centre">
+<div align="centre">
 <img src="assets/img (1).png" width="450" />
 <img src="assets/img (2).png" width="490" />
-<img src="assets/img (4).png" width="700" />
-<div align="centre">
-<img src="assets/img (3).png" width="450" />
+<img src="assets/img (4).png" width="650" />
+<img src="assets/img (3).png" width="40" />
 </div>
-</p>
 
 
 ## Contributions
