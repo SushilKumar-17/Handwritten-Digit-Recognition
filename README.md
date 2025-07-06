@@ -1,6 +1,12 @@
 # Handwritten Digit Recognition using SVM
 
 This is my very first Machine Learning project, where I built a **handwritten digit recognition system** using the **Support Vector Machine (SVM)** algorithm. What makes it special is that I created my own dataset by capturing images and labeling them manually.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
